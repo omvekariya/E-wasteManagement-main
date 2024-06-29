@@ -41,7 +41,7 @@ function Page11() {
     if (arbs === +num1) {
       setShow2(true)
     } else {
-      setShow2(false)
+      setShow2(true)
     }
   }
   return (
